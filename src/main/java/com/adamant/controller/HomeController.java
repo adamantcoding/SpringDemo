@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class HomeController {
     @GetMapping("/")
     public String home(ModelMap modelMap){
-        modelMap.addAttribute("name", "man!");
+        modelMap.addAttribute("name", "visitor!");
         return "home";
     }
 }
