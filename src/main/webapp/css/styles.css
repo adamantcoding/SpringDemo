@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+    opacity: 1;
+}
+h2 {
+    font-family: "Arial Black";
+    font-size: 50px;
+    color: burlywood;
+    text-align: center;
+}
+
+p {
+    font-family: Serif;
+    font-size: 25px;
+    color: red;
+    text-align: center;
+}
+
+h3 {
+    font-family: Verdana;
+    font-size: 20px;
+    color: firebrick;
+    text-align: center;
+}
+
+h4 {
+    font-family: Verdana;
+    font-style: italic;
+    font-size: 15px;
+    color: chocolate;
+    text-align: center;
+}
