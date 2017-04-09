@@ -4,7 +4,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 /**
- * Created by Zrinka on 31.3.2017..
+ * Created by Ivan on 31.3.2017..
  */
 @Configuration
 public class WebInit extends AbstractAnnotationConfigDispatcherServletInitializer {
